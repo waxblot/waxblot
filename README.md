@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="400" height="300" alt="makesweet-6c3h3l" src="https://github.com/user-attachments/assets/0bed6c00-c376-4cef-8ce3-165d0f365e15" />
 
 <!--
 **waxblot/waxblot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
